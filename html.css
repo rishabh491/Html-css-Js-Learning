@@ -1,0 +1,49 @@
+body{
+    background-color:grey;
+    align-items: center;
+}
+.hello{
+    color: aquamarine;
+}
+.none{
+    color: blanchedalmond;
+}
+.button{
+    background-color: white;
+    margin-left: auto;
+    height: 35px;
+    width: 60px;
+}
+
+li{
+    height: 30px;
+    width: 200px;
+    padding: 5px;
+    margin: 5px;
+
+}
+header{
+    margin-left: 40%;
+}
+#box{
+     margin-left: 0%;
+     height: 300px;
+     width: 300px;
+     background-color: blueviolet;
+     padding-left: 140px;
+     padding-top: 20px;
+     font-size: 25px;
+}
+#input{
+    font-size: 25px;
+    height: 30px;
+    width: 200px;
+
+}
+td{
+  
+   border: 3px black solid;
+}
+th{
+    border: 3px black solid;
+}
